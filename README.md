@@ -1,2 +1,3 @@
-# ie-cnrs-lttac
-Devenir ingénieur d'études au CNRS après un Master LTTAC
+# [Slidev](https://github.com/slidevjs/slidev)
+
+Learn more about Slidev at the [documentation](https://sli.dev/).
