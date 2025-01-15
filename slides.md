@@ -32,7 +32,7 @@ download: true
 Université de Lille - 13 janvier 2025
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/alxdrdelaporte" target="_blank" alt="GitHub" title="Code source sur GitHub"
+  <a href="https://github.com/alxdrdelaporte/ie-cnrs-lttac" target="_blank" alt="GitHub" title="Code source sur GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
