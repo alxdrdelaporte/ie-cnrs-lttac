@@ -23,7 +23,6 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 overviewSnapshots: true
-download: true
 ---
 # Devenir Ingénieur d'études CNRS après un Master LTTAC
 
