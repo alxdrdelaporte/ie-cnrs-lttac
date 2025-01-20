@@ -68,7 +68,7 @@ au Centre de recherches linguistiques sur l'Asie orientale (CRLAO)
 2019-2021 : Chercheur associé Bibliothèque Nationale de France, Paris\
 Depuis janvier 2020 : Ingénieur d'études au CRLAO, Paris
 
-<span id="easteregg" style="color: #121212;">Et pendant mon temps libre ? [Danseur de yosakoi](https://www.tiktok.com/@alek_yosakoi), membre de [Yosakoi Paris Hinodemai](https://www.youtube.com/@YosakoiParisHinodemai) et de la [Fédération de Yosakoi de France](https://www.youtube.com/@federationdeyosakoidefrance).</span>
+<span id="easteregg" style="color: #121212;">[Et pendant mon temps libre ? Danseur de yosakoi](https://www.tiktok.com/@alek_yosakoi)[, membre de Yosakoi Paris Hinodemai](https://www.youtube.com/@YosakoiParisHinodemai) [et de la Fédération de Yosakoi de France](https://www.youtube.com/@federationdeyosakoidefrance).</span>
 
 ---
 layout: quote
