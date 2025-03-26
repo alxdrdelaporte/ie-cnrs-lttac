@@ -476,7 +476,7 @@ Quelques liens où vous trouverez des informations supplémentaires
 
 Passer du Master LTTAC à un poste d'IE CNRS
 
-* [Interview sur Lilagora](https://www.lilagora.fr/fr/group/faculte-des-humanites/30/articles/et-toi-qu-est-ce-que-tu-as-fait-apres-tes-etudes-9/14/10/2022/1009)
+* [Interview sur Lilagora](https://humanites.univ-lille.fr/stages-insertion-professionnelle/orientation-insertion/des-temoignages-pour-vous-aider-dans-votre-insertion)
 * [CV sur Tekipaki](https://tekipaki.hypotheses.org/a-propos)
 * [CV HAL](https://cv.hal.science/alexander-delaporte)
 
